@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
-printf("c progrm");
+ printf("hi");
 getch();
 }
+

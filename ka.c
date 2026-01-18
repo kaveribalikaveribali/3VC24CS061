@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main()
 {
-printf("c progrm");
+printf("one.c");
 getch();
 }
